@@ -377,9 +377,8 @@ nav a:nth-child(3):hover ~ #indicator {
       margin: 0 auto;
       left: 50%;
       transform: translate(-50%, -50%);
-      font-size: 14px; /* Adjust font size for smaller screens */
       padding: 12px 24px; /* Adjust padding */
-      margin-top: -153px;
+      top: 98px;
   }
 }
 
